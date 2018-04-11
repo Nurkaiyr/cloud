@@ -1,0 +1,2 @@
+C:\Users\едиген\source\repos\Cloud\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\едиген\source\repos\Cloud\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
